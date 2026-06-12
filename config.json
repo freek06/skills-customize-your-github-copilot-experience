@@ -77,6 +77,30 @@
           "type": "text"
         }
       ]
+    },
+    {
+      "id": "advanced-data-visualization",
+      "title": "Advanced Data Analysis & Visualization",
+      "description": "Clean, analyze, and visualize a dataset using pandas and matplotlib/seaborn.",
+      "path": "assignments/advanced-data-visualization",
+      "dueDate": "2026-07-24",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Dataset",
+          "file": "sales_data.csv",
+          "type": "csv"
+        },
+        {
+          "name": "Dependencies",
+          "file": "requirements.txt",
+          "type": "text"
+        }
+      ]
     }
   ]
 }
