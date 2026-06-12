@@ -21,12 +21,13 @@ Completed program should:
 - Track and display incorrect guesses and remaining attempts.
 - End with a clear win or lose message and reveal the correct word on loss.
 
-### 🛠️ Optional: Extra features (nice-to-have)
+### 🛠️ Enhancements (optional)
 
 #### Description
 Add one or more enhancements to make the game more polished.
 
-#### Suggestions
+#### Requirements (optional)
+Completed program may include one or more of the following:
 
 - Load words from an external file (e.g. `words.txt`) and support different difficulty levels.
 - Allow the player to play multiple rounds with a running score.
